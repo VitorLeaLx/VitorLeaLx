@@ -1,6 +1,6 @@
 # 😎  SOBRE MIM  
 
-Me chamo Vitor Leal estou aprendendo a usar o Git e o GitHub com a DIO, eu tenho conhecimento em HTML/JavaScript/React. Aqui embaixo estão minhas redes sociais para contato, valeu !!
+Me chamo Vitor Leal estou aprendendo a usar o Git e o GitHub, eu tenho conhecimento em HTML/JavaScript/React. Aqui embaixo estão minhas redes sociais para contato, valeu !!
 
 ## [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-leal-borges/) 
 
